@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "329293099666",
+    "project_id": "virtuodoc-27b80",
+    "storage_bucket": "virtuodoc-27b80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329293099666:android:960236c98a158b22192c4b",
+        "android_client_info": {
+          "package_name": "com.siso.virtuodoc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZK-PXqsXGs8z1-Gin4yLZXCAUTnlQfvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
